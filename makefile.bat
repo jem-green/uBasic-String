@@ -1,0 +1,1 @@
+cl /Feubasic run-ubasic.c ubasic.c tokenizer.c
